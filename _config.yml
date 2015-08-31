@@ -1,0 +1,9 @@
+highlighter: pygments
+
+safe: true
+lsi: false
+source: Amullerf1/amullerf1.github.io
+name: Adolfo Muller
+description: blog for UT CS371 class
+avatar: http://digiday.com/wp-content/uploads/2012/02/anonymousperson.gif
+disquis:
